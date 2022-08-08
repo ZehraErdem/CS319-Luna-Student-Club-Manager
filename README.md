@@ -3,7 +3,7 @@
 # Student Club Manager
 Student club manager is a web based application project for CS319. This project is designed for students and club managers at university. This project aims at to provide an effective implementation of a club manager for both sides of user, students and clubs and makes it far easier to arrange and attend the club activities and follow a particular club.
 
-  [Detailed User Manuel](https://github.com/ZehraErdem/CS319-Luna-Student-Club-Manager/blob/main/User%20Manual.pdf)
+  [Detailed User Manual](https://github.com/ZehraErdem/CS319-Luna-Student-Club-Manager/blob/main/User%20Manual.pdf)
 
 # Languages and frameworks 
 [Maven](https://mvnrepository.com/artifact/org.springframework/spring-core), [Java Spring](https://spring.io/), [postgresql](https://www.postgresql.org/), [jQuery](https://jquery.com/), [Bootstrap](https://getbootstrap.com/)
